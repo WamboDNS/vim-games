@@ -23,5 +23,5 @@ pip install -r requirements.txt
 3. Start the game:
 ```
 cd vim-games
-python3 snake
+python3 vim-snake
 ```
